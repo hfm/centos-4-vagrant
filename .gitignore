@@ -1,0 +1,14 @@
+### https://raw.github.com/github/gitignore/master/Global/vagrant.gitignore
+
+.vagrant/
+
+
+### https://raw.github.com/github/gitignore/master/packer.gitignore
+
+# Cache objects
+packer_cache/
+
+# For built boxes
+*.box
+
+
